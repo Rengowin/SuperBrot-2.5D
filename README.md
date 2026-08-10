@@ -1,5 +1,11 @@
 # Superbort
 
+// hier irgendwie ein general bild von gameplay, aber auch irgendwie weitere bilder in laufe der README
+
+// ihr musst vlt mir das schicken das ich einbauen kann bzw ihr baut das selbst in die readme ein über github
+
+// wir müssen mal schauen ob man auf die einzelen git accounts verweisen kann
+
 ## Project Description & Gameplay
 
 Superbrot is an isometric action game inspired by Vampire Survivor and Superhot. The player controls a sentient piece of bread fighting against hostile birds in a dystopian world. Enemies attack in waves using melee charges and projectiles. The core gameplay twist is time manipulation: time slows down and eventually goes near to zero when the player does not move, allowing for tactical positioning and precise combat. The game is played using WASD movement with mouse-based aiming. The player gets after every wave a reward for now every even round a new weapon and all uneven waves and upgrades that buff all current weapons.
@@ -23,5 +29,6 @@ The initial project scope was too ambitious, but the core idea and main mechanic
 
 ### Benjamin
 
--test
-  -test
+- test
+
+  - test
