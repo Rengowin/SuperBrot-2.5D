@@ -31,6 +31,10 @@ The initial project scope was too ambitious, but the core idea and main mechanic
 
 ### Benjamin
 
-- test
+- Designed the initial enemy spawning system, including configurable enemy data, spawn limits, multiple spawn points and basic movement towards the player.
+- Designed and implemented the core weapon architecture and several ranged and melee weapon types, including pistol, shotgun, rocket launcher, swords and spear.
+- Refactored the weapon system by separating player input and weapon handling responsibilities into dedicated components.
+- Implemented reusable pickups for health, ammunition and temporary player buffs.
+- Designed and implemented a flexible upgrade system for player and weapon stats using additive and multiplicative modifiers.
 
-  - test
+This was my first larger group project and gave me my first experience developing a game as part of a team with different roles. During the first weeks, I also helped coordinate and distribute tasks within the team. Working together with another programmer also taught me more about designing systems that could later be extended and integrated by someone else. On the programming side, I gained more practical experience with inheritance by using shared weapon classes to build different ranged and melee weapons.
